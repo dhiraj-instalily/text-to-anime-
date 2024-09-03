@@ -1,0 +1,12 @@
+# Ignore configuration files that may contain sensitive information
+config.py
+
+# Ignore environment files
+.env
+
+# Ignore generated images
+static/
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
