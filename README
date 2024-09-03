@@ -20,3 +20,5 @@ Generates images based on text prompts using AI. It combines a React frontend wi
 - Frontend: React
 - Backend: Flask
 - Image Generation: API (details in `call_model.py`)
+
+Open source: https://github.com/dhiraj-instalily/Animagine-xl-3.1
